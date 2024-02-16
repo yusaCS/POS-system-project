@@ -1,0 +1,35 @@
+{
+  "name": "tiger-sugar-web-application",
+  "version": "1.0.0",
+  "description": "Web application for Tiger Sugar that adapts to the different needs of each user type (customers, cashiers, and managers) with added accessibiliy features.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csce-315-331-2023c/project-3-909_09p.git"
+  },
+  "author": "Nicholas Nguyen, Kawan Ardalan, Josh Mueck, Yusa Sagli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csce-315-331-2023c/project-3-909_09p/issues"
+  },
+  "homepage": "https://github.com/csce-315-331-2023c/project-3-909_09p#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "i18next": "^23.7.6",
+    "i18next-browser-languagedetector": "^7.2.0",
+    "i18next-http-backend": "^2.4.2",
+    "pg": "^8.11.3",
+    "react-i18next": "^13.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
