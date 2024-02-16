@@ -1,0 +1,23 @@
+.menu-card {
+  border: 1px solid #E7E7E7;
+}
+
+.menu-card:hover {
+  border: 1px solid #D3D3D3;
+}
+
+.cart-button {
+  background-color: black;
+}
+
+.cart-button:hover {
+  background-color: #EED484;
+}
+
+.add-to-cart-button {
+  background-color: #007BFF;
+}
+
+.add-to-cart-button:hover {
+  background-color: rgb(0, 112, 232)
+}

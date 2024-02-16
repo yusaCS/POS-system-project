@@ -1,0 +1,9 @@
+.linkButton {
+  color: #EED484;
+  border: solid 3px #EED484;
+}
+
+.linkButton:hover {
+  color: #01FECE;
+  border: solid 3px #01FECE;
+}

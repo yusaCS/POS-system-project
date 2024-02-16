@@ -1,0 +1,23 @@
+.gridButton {
+  background-color: #ADD8E6;
+}
+
+.gridButton:hover {
+  background-color: #FFFFFF;
+}
+
+.cashButton {
+  background-color: #118C4F;
+}
+
+.cashButton:hover {
+  background-color: #32CD32;
+}
+
+.cardButton {
+  background-color: #808080;
+}
+
+.cardButton:hover {
+  background-color: #BCC6CC;
+}
